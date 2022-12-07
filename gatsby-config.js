@@ -12,13 +12,13 @@ module.exports = {
   siteMetadata: {
     title: `emilio's awesome blog`,
     author: {
-      name: `Kyle BFKJNSLKJFNKSLF:SFKLNDSFLKSNFLKDNF:KSNDLF`,
-      summary: `a bored CS student with too much on his mind.`,
+      name: `Emilio De Leon`,
+      summary: `who is a bored CS student with too much on his mind.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://emiliojd.github.io/blog`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `emiliothelion`,
     },
   },
   plugins: [
