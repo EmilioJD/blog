@@ -10,10 +10,10 @@
 module.exports = {
   pathPrefix : "/blog",
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `emilio's blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Emilio de Leon`,
+      summary: `current CS student.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
