@@ -12,8 +12,8 @@ module.exports = {
   siteMetadata: {
     title: `emilio's awesome blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Kyle BFKJNSLKJFNKSLF:SFKLNDSFLKSNFLKDNF:KSNDLF`,
+      summary: `a bored CS student with too much on his mind.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
