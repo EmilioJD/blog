@@ -12,7 +12,7 @@ module.exports = {
   siteMetadata: {
     title: `emilio's awesome blog`,
     author: {
-      name: `Emilio De Leon`,
+      name: `Emilio De Leo.....n`,
       summary: `who is a bored CS student with too much on his mind.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
